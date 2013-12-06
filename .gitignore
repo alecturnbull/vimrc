@@ -2,7 +2,7 @@
 *
 
 # whitelist 
-!.vim/*
+!.vim
 !.gitignore
 !.vimrc
 

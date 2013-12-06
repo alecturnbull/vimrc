@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='ftp://humantopography.com//wp-content/themes/'
+let g:netrw_dirhist_2='ftp://humantopography.com//wp-content/themes/topography/'
+let g:netrw_dirhist_3='/Users/air/Dropbox/dev/letter_project'
+let g:netrw_dirhist_4='/Users/air/Dropbox/Taiko/rails/taiko'
+let g:netrw_dirhist_5='/Users/air/Dropbox/Taiko/ariadne'
+let g:netrw_dirhist_6='/Users/air/.oh-my-zsh'
+let g:netrw_dirhist_7='/Users/air/.vim'
