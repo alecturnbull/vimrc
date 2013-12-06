@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# whitelist 
+!.vim/*
+!.gitignore
+!.vimrc
+
